@@ -26,7 +26,6 @@ LinkingTo:
     RcppParallel (>= 5.0.1),
     rstan (>= 2.18.1),
     StanHeaders (>= 2.18.0)
-Repository: Github
 RemoteType: github
 RemoteHost: api.github.com
 RemoteRepo: bayecomp
@@ -41,5 +40,3 @@ NeedsCompilation: yes
 Packaged: 2022-05-24 02:19:45 UTC; YINY22
 Author: First Last [aut, cre] (YOUR-ORCID-ID)
 Maintainer: First Last <first.last@example.com>
-Built: R 4.1.0; i386-w64-mingw32; 2022-05-24 02:19:48 UTC; windows
-Archs: i386, x64
